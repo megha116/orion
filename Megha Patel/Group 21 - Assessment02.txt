@@ -1,0 +1,786 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Group 21 - Assessment02</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<h1>Hello world!</h1>
+								<p>We are Group 21<br />
+								Welcome to our website</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#intro">Team Profile</a></li>
+								<li><a href="#idealJob">Ideal Jobs</a></li>
+								<li><a href="#industryData">Industry data</a></li>
+								<li><a href="#interview">IT Professional</a></li>
+								<li><a href="#technologies">IT Technologies</a></li>
+								<li><a href="#projectIdea">Project Ideas</a></li>
+								<li><a href="#reflections">Reflections</a></li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Team Profile and Personal Profiles-->
+							<article id="intro">
+								<h2 class="major">Team Profile</h2>
+								<div id="inner">
+										<h3>Meet team PlanIT</h3>
+										<nav>
+											<ul class="actions">
+												<li><a href="#Mike" class="button primary">Michael</a></li>
+												<li><a href="#Timothy" class="button primary">Timothy</a></li>
+												<li><a href="#Trent" class="button primary">Trent</a></li>
+												<li><a href="#Martin" class="button primary">Martin</a></li>
+											</ul>
+										</nav>
+								</div>
+							<p>Click on any name to take you to their personal profile.</p>
+							</article>
+
+
+							<article id="Mike">
+								<h2 class="major">Michael</h2>
+								<h3>Hello World! My name is Michael.</h3>
+								<p>Hello, my name is Michael Reginald Legg, my student number is s3812517. I have a Cert V Diploma in Communication and Electrical Engineering and I'm currently studying and working towards a Degree in Programming and Information Technology as well as an Degree in Mechanical Engineering. My current work has me working in the roles as a supervisor and a manager which leaves me with very little time of my own. In the time I do get, I enjoy going to rock concerts. Otherwise wasting time listening to music.
+								</P>
+								<span class="image main"><img src="images/Mike1.png" alt="" /></span>
+								<p>My results for the Myer-Briggs test was INTP-T as shown below. What the site says about these people's personality is this: ”Logicians pride themselves on their inventiveness and creativity, their unique perspective and vigorous intellect. Usually known as the philosopher, the architect, or the dreamy professor, Logicians have been responsible for many scientific discoveries throughout history.”
+								</p>
+								<span class="image main"><img src="images/Mike2.png" alt="" /></span>
+								<p>Although in the end this whole mess is just another pseudoscience and has no real merrits at all. At best it is just a kids game that people take seriously, which is were we now see more and more problems in sociaty.
+								</p>
+								<p>My creativity test results state that my creativity could use some work, I would argue that my analytical approach to tasks would hinder my creative ability as I regard myself as a realist. However, if I am to bounce ideas and perspectives with others, and work actively within my team, I can innovate my ideas and ultimately become more creative (Mind Tools, 2016).
+								</p>
+							</article>
+
+							<article id="Timothy">
+								<h2 class="major">Timothy</h2>
+								<h3>Hello World! My name is Timothy.</h3>
+								<p>My Student Number is S3864775. I’m previously a dredge operator but wanted a change in career/job so decided to study a bachelor of IT. My hobbies are video games, music, skateboarding and watching great movies.
+									<br>I am very interested in all types of app development and design, coding and web design. I have only had experience from high school where we completed the criteria of a certificate I and certificate II in IT, I did a ”coding camp” online which taught me very basic coding then also what I have learned so far in this course.
+									<br>I intend to expand my knowledge and be a great member of team PlanIT.
+								</p>
+								<span class="image main"><img src="images/Tim1.png" alt="" /></span>
+								<p>Whilst tests such as the Myer-Briggs, learning style and creativity, are not always 100 percent accurate, I have found that these results are a reasonable accurate reflection of my personality, work ethic and how well I would work as part of a team.
+								</p>
+								<p>The results of the Myer Briggs test show that I am energetic, person-centred, creative and enthusiastic. In a team, this means that I can bring energy and a new way of thinking into the group, in order to maintain group morale when projects become difficult. Further, the creativity test shows that I have above average creativity, which means that I can bring new ideas and suggestions to the group which have not been considered yet.
+								</P>
+								<span class="image main"><img src="images/Tim2.png" alt="" /></span>
+								<p>The results of the learning test show that I am a good auditory learner, which in the group environment means that I will listen to others and learn from them. I also have the ability to learn whilst listening and completing other tasks which will help the group move faster. I believe these characteristics of my personality highlight my strength within a group and prove I am an asset to any team.
+								</p>
+								<span class="image main"><img src="images/Tim3.png" alt="" /></span>
+								<p>I will take the results of these tests into account when I am forming a team for group projects. In doing so, I will aim to find other individuals who have learning styles or personalities that are going to work well with mine to make the task as easy as it can be for us all as a team.
+								</P>
+							</article>
+
+							<article id="Trent">
+								<h2 class="major">Trent</h2>
+								<h3>Hello World! My name is Trent.</h3>
+								<p>I am twenty-four years of age and I live in Brisbane, Australia. I chose to study a Bachelor of IT at RMIT as this was a physical option for me a few years ago, I jumped at this degree once I found it was online and now my student number is: S3863026.
+								 	<br>I enjoy working on UI/UX designs using the Adobe CC suite and have a strong desire to create my own start-up – producing a mobile application, ultimately running a tech company. I have a reasonable experience with computer systems however most of this is self-taught. I am considering my IT experience to be as up to date as the course material thus far.
+									<br>I am looking forward to working with my fellow teammates in our group PlanIT.
+								</p>
+								<span class="image main"><img src="images/Trent1.png" alt="" /></span>
+								<p>I undertook three tests which examined my personality, learning style and my core values. The three tests (in-order) were: <a href="https://www.16personalities.com/"> 16Personalities</a>, <a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml">Education Planner.org’s Learning style test</a> and <a href="https://www.valuescentre.com/">Values Centre’s Personal Values Assessment</a>. I believe this exercise to be a part of identifying how I fit into a group setting, in a professional working environment. For the 16Personalities test, I identified as a Logician. For the learning style I am: Tactile/Visual learning and for my core values I regard ‘meaning’ with the utmost importance.
+								</p>
+								<span class="image main"><img src="images/Trent2.png" alt="" /></span>
+								<p>I sense within a group setting; my team need not fear or doubt my ability to deliver. I may need to ask questions or do tasks myself to truly grasp my understanding, but there is no need for concern as this is just a part of my learning style. I like to get to the point of tasks, which almost eliminates any threat of conflict on my part. There may be times of disagreement, however my logical self knows that conflict is not viable when seeking a solution. I hold true to my core value of meaning, which to me relates to making something of our team, getting the result.
+								</p>
+								<span class="image main"><img src="images/Trent3.png" alt="" /></span>
+							</article>
+
+							<article id="Martin">
+								<h2 class="major">Martin</h2>
+										<h3>Hello World! My name is Martin.</h3>
+										<p>I am studying all the way from Sweden, my Student Number is S3775649. I am a student who is currently studying HVAC system design. I have taken an interest in programming and wish to procure more knowledge regarding this subject. I enjoy playing video games, and learning new things via studying.
+											<br>My interest in IT stems from using engineering software(CAD) during my HVAC training and playing video games as a past time hobby. My exposure to these has given me some ideas/preferences regarding what I would like to see in the software that I use, be it for study/work(CAD) or for recreation(video games).
+											<br>I have tried my hand at one IT course before this one. So I am still very new and inexperienced regarding IT related areas. I hope to learn more by doing this course alongside my team PlanIT.
+										</p>
+										<p>The test results point towards me being an introvert, who needs to take time to analyse information before being able to produce a response. The useful nature of this type of behaviour is that I will in most cases, try to produce a response that is pertinent to the situation at hand. This type of behaviour also necessitates that I take my time doing a task. Otherwise my response will not be desirable, as I need the time in order to better understand what it is I am supposed to do, and how my response should be formulated. The results to my test results can be found below:
+										</p>
+										<span class="image main"><img src="images/Martin1.png" alt="" /></span>
+										<span class="image main"><img src="images/Martin2.png" alt="" /></span>
+										<span class="image main"><img src="images/Martin3.png" alt="" /></span>
+										<span class="image main"><img src="images/Martin4.png" alt="" /></span>
+							</article>
+
+						<!-- Interest in IT -->
+							<article id="idealJob">
+								<h2 class="major">Ideal Jobs</h2>
+								<h3>Click on a name to see each Ideal Job:</h3>
+								<nav>
+									<ul class="actions">
+										<li><a href="#Mike1" class="button primary">Michael</a></li>
+										<li><a href="#Timothy1" class="button primary">Timothy</a></li>
+										<li><a href="#Trent1" class="button primary">Trent</a></li>
+										<li><a href="#Martin1" class="button primary">Martin</a></li>
+									</ul>
+								</nav>
+								<br>
+								<h3>Here's a general statement regarding the similarities between the groups ideal job selection.</h3>
+								<p>From the information gathered on our ideal job selections, it is clear that Trent and Martin will have similar lines of work where they will both be working on building or creating software and applications. The differences in the two would be that Trent’s work will involve some more leadership and management skills as he has stated that he would like to start a company involving his mobile application. This is not to say Martin could not do the same, but at this point Trent’s would involve more about customer service and business skills. Tim and Michael would also be doing similar work in a sense, where they will both be providing a company with the testing of software or programs and troubleshooting them. They will both need to be able to understand hardware and have the ability to upgrade it when necessary. The slight differences would be that although both jobs would require quite a high amount of security, I feel that Michael’s work is a bit more hands-on with the hardware side of it, whereas Tim’s is more along the lines of organising and overseeing the security and software as a whole. Like most IT jobs, I feel that we would all have the potential to be a part of a team or bigger company, but we would also have the ability to be a freelancer if that is what we desired. I believe based on our individual skills we will be learning. We would work great as a team overall as we would have knowledge about how to program software and create apps, we would have sufficient business and administration skills and we would have the troubleshooting and secuirty skills needed to make sure everything is running smoothly.
+								</p>
+							</article>
+
+
+
+							<article id="Mike1">
+								<h2 class="major">Michael</h2>
+										<h3>What is your ideal job?</h3>
+										<p>My ideal job is in Research & Development, more specifically in the field of Electronic Engineering. I am studying two degrees to move towards this, both Programming/Information Technology as well as Mechanical Engineering.
+											<br>Overall I am more seeking a broader knowledge of these areas than being an expert in the field, for now atleast anyway. My most desired job would be one of the engineers or managers of a space exploration vehicle.
+										</p>
+										<h3>How does this contrast to Timothy?</h3>
+										<p>The follow-on support required for my ideal job actually aligns really closely to the work Timothy would be conducting on a daily basis in his ideal job. The support and troubleshooting required in both owe jobs would bring exciting and challenging problems for us to solve.
+										</p>
+										<h3>How does this contrast to Trent?</h3>
+										<p>Although there are aspects of our ideal jobs are similar, mainly in the software development side. From there most of the similarities end, Trent's ideal job is a lot more customer and business based, where my own is more hands on, mainly only working in small teams.
+										</p>
+										<h3>How does this contrast to Martin?</h3>
+										<p>For my ideal job I expect I would be working fairly close with someone like Martin. Though I am not looking at taking a lead role on the software engineering side, I still need to understand the basics of it to help support the team needing to develop the protocols required for my ideal job, including describing what we are trying to accomplish as well as the limitations.
+										</p>
+							</article>
+
+
+
+							<article id="Timothy1">
+								<h2 class="major">Timothy</h2>
+										<h3>What is your ideal job?</h3>
+										<p>IT Support co-ordinator. IT support coordinators are responsible for developing, organising and implementing a company’s IT goals. They can provide the organisation general support duties such as monitoring computer performances, providing and installing updates on the work systems, installing software for the technology and could also work on fixing hardware issues.
+										</p>
+										<h3>How does this contrast to Michael?</h3>
+										<p>The support, research and troubleshooting required for my ideal job actually aligns really closely to the work Michael would be conducting on a daily basis in his ideal job. Both of us will have to monitor how everything is running and we would have to do a lot of testing and upgrading of hardware.
+										</p>
+										<h3>How does this contrast to Trent?</h3>
+										<p>My ideal job is quite different in comparison to Trent’s ideal job. My job would be involving a lot more hardware related issues and upgrading and maintaining it, whereas Trent’s job involves programming and creating the software. I would then have to organise or co-ordinate where Trent’s software would be useful and to monitor the secuirty and how the program/software runs then upgrade the hardware as required.
+										</p>
+										<h3>How does this contrast to Martin?</h3>
+										<p>My ideal job is quite different in comparison to Martin’s ideal job as his is similar to Trent’s in some regard. Where both of them are looking to programme and create the software whereas my job would be involving more hardware related issues and upgrading and maintaining it. I would then have to organise or co-ordinate where Martin’s software would be useful and to monitor the security and how the program/software runs then upgrade the hardware as required.
+										</p>
+							</article>
+
+
+
+							<article id="Trent1">
+								<h2 class="major">Trent</h2>
+										<h3>What is your ideal job?</h3>
+										<p>Ideally, I want to programme my own mobile application and run a company. To be the founder of a tech start-up would be the pinnacle of my career. This job would entail proficiency regarding programming and other technical skills (Wireframing, prototyping, testing and development), a strong business mindset (to the likes of marketing and viability), flawless interpersonal skills (for conflict resolution and negotiations), leadership qualities and to be a visionary (Early Growth, 2019). This would ultimately make my ideal job similar to that of a client-side Software Engineer (Uchiha, 2012).
+										</p>
+										<h3>How does this contrast to Michael?</h3>
+										<p>There are similar aspects about Michaels and myselfs ideal jobs. I believe we would share many soft-skills and both have an analytical approach to tasks however, as Michael wishes to enter a different industry, this is where our similarities diverge and our hard-skills would be completely different.
+										</p>
+										<h3>How does this contrast to Timothy?</h3>
+										<p>My ideal job is very different in comparison with Tims’ ideal job. Tims’ ideal job has him engaging with health of systems and platforms while I intend to write the software. If the professional Tim and myself worked together I would be supplying the software and he would monitor and manage the software on his workplaces systems/servers. He would be instrumental in assessing how my software intergrates with differing systems/servers.
+										</p>
+										<h3>How does this contrast to Martin?</h3>
+										<p>My ideal job in contrast to Martins is not so different pending the specialisation he ends up desiring. Similalrly, we both wish to create and maintain software, however I wish to take my work commercial and ultimately start a company. It is imperative Martin and myself remain leaders of PlanIT’s Github repositories as this platform is used consistently amongst professional Software Engineers (Kosner, 2012).
+										</p>
+							</article>
+
+
+
+							<article id="Martin1">
+								<h2 class="major">Martin</h2>
+										<h3>What is your ideal job?</h3>
+										<p>My ideal job is a software engineer. As of writing this, I am not sure what type of specialization I would select but if I had to guess than I would at prefer a specialization that focuses on creating and maintaining software, as this aligns more with my interests.
+										</p>
+										<h3>How does this contrast to Michael?</h3>
+										<p>I believe I would be working in conjunction with someone of Michaels degree to a rather large extent. The degree of interaction would probably depend on the project itself, but I can see it would be necessary for the software- and electronic engineering sides of IT to cooperate in order to complete objectives.
+										</p>
+										<h3>How does this contrast to Timothy?</h3>
+										<p>My ideal job is different to Timothy’s in some ways. I am interested in creating and maintaining software. Though I might be put into a situation whereby I am forced to simply create software, and then move on to the next task immediately. It seems that Timothy’s task would then be to maintain and monitor said software. I would most likely have to communicate very well with someone like Timothy, as he would be a major part of the organizational structure of a company or group.
+										</p>
+										<h3>How does this contrast to Trent?</h3>
+										<p>Trent and I seem to have similar inclinations towards software engineering. The main difference would be that I am unsure of what my specialisation will be at this point, though I would like to create and maintain software--which is something both of us would end up doing at some point. As such, we would probably be working together to complete objectives.
+										</p>
+							</article>
+
+
+
+							<article>
+
+
+							</article>
+						<!-- Industry Data -->
+							<article id="industryData">
+								<h2 class="major">Industry Data</h2>
+								<h3>Click on a name to view personal industry data.</h3>
+								<nav>
+									<ul class="actions">
+										<li><a href="#Mike2" class="button primary">Michael</a></li>
+										<li><a href="#Timothy2" class="button primary">Timothy</a></li>
+										<li><a href="#Trent2" class="button primary">Trent</a></li>
+										<li><a href="#Martin2" class="button primary">Martin</a></li>
+									</ul>
+								</nav>
+								<br>
+								<h3>Table of job title and demand ranking</h3>
+								<div>
+									<table>
+									<thead>
+										<tr>
+											<th>Name</th>
+											<th>Ideal Job Position</th>
+											<th>Rank</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>Michael L.</td>
+											<td>Project Engineer</td>
+											<td>Rise of 13%/4yr</td>
+										</tr>
+										<tr>
+											<td>Trent W.</td>
+											<td>Software Engineer</td>
+											<td>Ranked 11th/25</td>
+										</tr>
+										<tr>
+											<td>Timothy R.</td>
+											<td>IT Support Coordinato</td>
+											<td>Ranked 18th/25</td>
+										</tr>
+										<tr>
+											<td>Martin B.</td>
+											<td>Software Engineer</td>
+											<td>Ranked 11th/25</td>
+										</tr>
+									</tbody>
+								</table>
+							</div>
+							<h3>Data Supplied by Burning Glass Technologies</h3>
+							<p>The following results have been based off of data supplied by RMIT which includes statistics on Labour Insight Jobs relating to Information Technology, in which the study was performed by Burning Glass Technologies. Burning Glass Technologies is an analytics software company that provides real-time data on job growth, skills in demand, and labor market trends (Burning Glass Technologies, 2020). There are three pieces of data in which were studied and resonded to. Links to each of the data pieces can be found below:
+							</p>
+							<nav>
+								<ul class="actions">
+									<li><a href="https://rmit.instructure.com/courses/70742/files/11665777/download?download_frd=1" class="button primary">Generic Skills</a></li>
+									<li><a href="https://rmit.instructure.com/courses/70742/files/11665789/download?wrap=1" class="button primary">Highest IT Skills</a></li>
+									<li><a href="https://rmit.instructure.com/courses/70742/files/11665776/download?wrap=1" class="button primary">Top IT Jobs</a></li>
+								</ul>
+							</nav>
+							<h3>Heres a general statement about <br>
+								our groups required skillsets
+							</h3>
+							<p>When referring to Burning Glass Technologies (2018), this group presents with a wide array of skills, resulting in a well rounded and broadly skilled group. When contrasting the individuals ideal jobs in this group, software engineers and IT support Co-ordinators are ranked within the high to average demand according to Burning Glass Technologies (2018), with demand increasing in recent years for jobs as a project engineer (seek.com.au, 2020). This shows that the skills acquired within this group are going to be useful in the future.
+							</p>
+							<p>When looking on an individual level, all group members require strong communication, time management and teamwork skills. These skills have proven themselves within the bounds of this assessment task. The group has demonstrated clear communication and undertaken their individual parts to get the group task completed.
+							</p>
+							<p>Given the broad skills set, this group should be able to perform cohesively as a together as each individual brings their own speciality skills, filling an important role within the team. The key skills a software engineer would be learning would be programming, designing and coding whereas the key skills for a project engineer and IT support co-ordinator would be focused on organising, security skills and upgrading or fixing hardware. In contrast this should mean that as a team we would function well together and compliment each others work. With Trent also wanting to create his own app and possibly company that would bring strong leadership and management skills to the team. Maritn and Michael might not need business management or business analysis as much as other skills but they would prove useful for Tim and Trent. On the other hand Tim would not necessarily need SQL, JavaScript, Java skills but they are required for a software engineer which is a good example of our broad skillset where we should always have a team member who has some knowledge about any task we may face as a group.
+							</p>
+							</article>
+
+							<article id="Mike2">
+								<h2 class="major">Michael</h2>
+								<span class="image main"><img src="images/Mike3.jpg" alt="" /></span>
+										<h3>Job Title:</h3>
+										<p>Project Engineer
+										</p>
+										<h3>Demand (Based on Burning Glass Data):</h3>
+										<p>Job is not ranked in the Burning Glass data. Seek.com.au suggests the demand for Project Engineers will rise by 13% over the next 4 years (Seek.com.au, 2020).
+										</p>
+										<h3>IT-Specific skill set (Based on Burning Glass Data):</h3>
+										<p>Due to the burning glass data, Project Engineer is not classed as an IT-Specific job and therefore does not indicate any IT-specific skill sets. Seek.com.au states Project Managers skill sets to include: Management, Communication Skills, Infrastructure, Design, a Engineering qualification and autonomy skills to be highly regarded (Seek.com.au, 2020).
+										</p>
+										<h3>General Skills (Based on Burning Glass Data):</h3>
+										<p>Project management is rank 6th based on skills required for the top flagship jobs. This is also a skill that is recommended to study once completing an engineering degree to improve your skills as a project engineer. Occupational health and safety, ranked 20th on the same list, is another skill that I would be required to complete for my desired job.
+										</p>
+										<h3>Three highest ranked IT-specific skills which are not in my reauired skill set:</h3>
+										<p>Out of all the the IT-specific skills listed in the Burning Glass report there are no skills that could really be placed in a not required basket. To some extent all of it could be required depending on the current project being worked on.
+										</p>
+										<h3>Three highest ranked general skills which are not in my reauired skill set</h3>
+										<p>Basic Customer Service, General Sales, and General Sales Practices are the three highest rated skills that would not be a requirement for my ideal job. These skills would be more useful for a product that was in the production stage as opposed to a more R&D branch.
+										</p>
+										<h3>Has my opinion of my ideal job changed after viewing the Burning Glass Data?</h3>
+										<p>Overall I found the information on Burning Glass to be narrow and yet scattered. There was not enough information in the report to remotely change my opinion. Additional the fact that a lot of the information is based on resource points such as mentions in online posts it would be interesting to see if they had anything in place to stop the information from being scewed.
+										</p>
+							</article>
+
+							<article id="Timothy2">
+								<h2 class="major">Timothy</h2>
+								<span class="image main"><img src="images/Tim4.jpg" alt="" /></span>
+										<h3>Job Title:</h3>
+										<p>IT Support Coordinator
+										</p>
+										<h3>Demand (Based on Burning Glass Data):</h3>
+										<p>IT Support co-ordinators appear to be at an average level in demand, ranking 18th out of 25 Information Technology job sectors. This ranking data was supplied by Burning Glass Technologies in March of 2018 (Burning Glass Technologies, 2018). There are over 1000 jobs on seek right now for IT support co-ordinators, which indicates there must be an average demand for jobs. (seek.com).
+										</p>
+										<h3>IT-Specific skill set (Based on Burning Glass Data):</h3>
+										<p>As a IT support co-ordinator the IT related skills I would need to complete my job at the best potential would be experience with office 365, Onedrive, VM and servers, Cisco, general IT fault finding, hardware upgrading and security over IT and emails having oversight of reports and incidents.
+										</p>
+										<h3>General Skills (Based on Burning Glass Data):</h3>
+										<p>The general skills I would need as an IT support co-ordinator would involve a lot of administration skills specifically with office 365, Onedrive and servers. It would also involve management skills in overlooking everything and making sure it is all running properly the fixing anything that needs it. A big part of the job would be to have communication skills so you can let your team know what is going well and what is not doing so well. There would be organisation skills in allocating where to use software and programs and fault finding anything in the system as a whole.
+										</p>
+										<h3>Three highest ranked IT-specific skills which are not in my reauired skill set:</h3>
+										<p>Based on the data recorded on burning glass, as an IT support co-ordinator the three highest ranked IT-related skills which are not neccesarily required include graphic design, customer service and software engineering. As an IT support co-ordinator I would not need graphics design skills, I would not neccesarily need customer service skills as I would mostly be working for and interacting with the business and their systems and I would not need software engineering skills as I am not actually creating the software but just monitoring it and upgrading hardware.
+										</p>
+										<h3>Three highest ranked general skills which are not in my reauired skill set</h3>
+										<p>Based on the data recorded on burning glass, as an IT support co-ordinator the three highest ranked general skills which are not neccesarily required include writing, creativity and leadership. Writing might make it easier to communicate but is not really required, creativity is not needed as it is more of a research and factual job and you need a small amount of leadership skills but I believe it would be more team work and management than actual leadership.
+										</p>
+										<h3>Has my opinion of my ideal job changed after viewing the Burning Glass Data?</h3>
+										<p>My opinion of my ideal job has not changed after seeing what is required for the job. It has just highlighted the skills it will require and what other things that I had not thought of, that I must do to achieve success in this job. I remain excited to learn and persue the skills that I will need.
+										</p>
+							</article>
+
+							<article id="Trent2">
+								<h2 class="major">Trent</h2>
+								<span class="image main"><img src="images/Trent4.jpg" alt="" /></span>
+										<h3>Job Title:</h3>
+										<p>Software Engineer
+										</p>
+										<h3>Demand (Based on Burning Glass Data):</h3>
+										<p>Software Engineers appear to be in constant demand, ranking 11th out of 25 Information Technology job sectors. This ranking data was supplied by Burning Glass Technologies in March of 2018 (Burning Glass Technologies, 2018). Australia’s leading job market company Seek.com.au indicates Software Engineers job growth is set to grow 23.4% projected over the next 5 years (Seek.com.au, 2020).
+										</p>
+										<h3>IT-Specific skill set (Based on Burning Glass Data):</h3>
+										<p>Software Engineers are required to cover a broad range of technical and non-technical skills. Technical skills listed on Burning Glass Data would suggest SQL, JavaScript, Java, SAP, Technical Support, Microsofts C#, LINUX, .Net Programming, Git, Python and Systems Engineering (Burning Glass Technologies, 2018). According to Seek some additional technical skills Software Engineers should consider are: Testing, Software Development and Amazon Web Services (Seek.com.au, 2020). This broard range of technical skills would be highly regarded by career prospects.
+										</p>
+										<h3>General Skills (Based on Burning Glass Data):</h3>
+										<p>A Software Engineer would be be considered a professional engineer (Career Explorer, by Sokanu, 2020). This would mean Software Engineers would require a broad range of general professional skills. Burning Glass Technologies General Skills data has indicated the top skills in demand and Software Engineers would require the following; Communication skills, problem solving, organisational skills, writing, team work, planning, troubleshooting, detail-orientated, creativity, research, time management, presentation skills, meeting deadlines, analytical skills, team building, management, multi-tasking, English, self-starter and decision making (Burning Glass Technologies, 2018). These are a broard range of skills and the majority are highly desirable to employers.
+										</p>
+										<h3>Three highest ranked IT-specific skills which are not in my reauired skill set:</h3>
+										<p>The three highest ranked IT-specific skills covered in the Burning Glass Technologies ’Skills in Greatest Demand’ which are not in a Software Engineers scope include Project Management, Business Management and Building Relationships (Burning Glass Technologies, 2018). These skills would be highly regarded as Business related more so than what would be expected from a Software Engineer.
+										</p>
+										<h3>Three highest ranked general skills which are not in my reauired skill set</h3>
+										<p>The three highest ranked General Skills covered in the Burning Glass Technologies ’Skills in Greatest Demand’ which would not be regarded as ’required’ by a Software Engineer include: Leadership, Mentoring and Quality Assurance and Control. Although Software Engineers would be required to have some experience in these skills, they would not be required to become a Junior Software Engineer, as these skills are required by Senior level Software Engineers (Seek.com.au, 2020).
+										</p>
+										<h3>Has my opinion of my ideal job changed after viewing the Burning Glass Data?</h3>
+										<p>The Burning Glass data has revealed some consolidating evidence that, this is a pathway I wish to continue on. To be a great founder of my own mobile application I would consider the skills required to be akin to those of a Software Engineer. Therefore, my opinion on my ideal job has not changed, rather, has expanded my understanding on what is required to get to my ideal job.
+										</p>
+							</article>
+
+							<article id="Martin2">
+								<h2 class="major">Martin</h2>
+								<span class="image main"><img src="images/Trent4.jpg" alt="" /></span>
+										<h3>Job Title:</h3>
+										<p>Software Engineer
+										</p>
+										<h3>Demand (Based on Burning Glass Data):</h3>
+										<p>The demand for software engineers seems to be steady; somewhat above average according to the data (ranked 11 out of 25). I believe that there are reasonable prospects for employment.
+										</p>
+										<h3>IT-Specific skill set (Based on Burning Glass Data):</h3>
+										<p>If I am to assume that a software engineer requires the following; SQL, JavaScript, JAVA, Microsoft windows, project management, SAP, Graphic design, Microsoft C#, software engineering, .NEt programming, website production, Python, and systems engineering then I would surmise that the demand of the IT-specific skills of a software engineer are rather desirable according to the data.
+										</p>
+										<h3>General Skills (Based on Burning Glass Data):</h3>
+										<p>If I am to assume that a software engineer requires the following; Communication skills, problem solving, organisational skills, writing, team work, planning, troubleshooting, detail.orientated, creativity, research, time management, quality assurance and control, presentation skills, meeting deadlines, analytical skills, team building, management, multi-tasking and decision making, then I would surmise that the demand for the general skills of a software engineer are rather desirable according to the data.
+										</p>
+										<h3>Three highest ranked IT-specific skills which are not in my reauired skill set:</h3>
+										<p>Based on the above, the three highest ranked IT-specific skills which are not on my required skill set are the following; Business management, building relationships, business analysis.
+										</p>
+										<h3>Three highest ranked general skills which are not in my reauired skill set</h3>
+										<p>Based on the above, the three highest ranked general skills which are not on my required skill set are the following; Leadership, mentoring, English.
+										</p>
+										<h3>Has my opinion of my ideal job changed after viewing the Burning Glass Data?</h3>
+										<p>My opinion with regards to my choice of ideal job, has not changed after being exposed to the Burning Glass data. I seek to learn more. So seeing that the requirements for a software engineer are high, I am motivated to put more time and effort into becoming a software engineer.
+										</p>
+							</article>
+
+						<!-- Personal Profile -->
+							<article id="interview">
+								<h2 class="major">Interview with IT<br> professional</h2>
+								<p>Trent W. was able to secure an e-mail interview with the Executive Director (CEO & Founder) of one of Australias leading software developers – Appello. Cameron Woodford has successfully grown his company into what it is today, over the last three and a half years. With more than fifty IT professional employers located in over four countries – theres no doubt Cameron has achieved IT professionalism. Cameron was chosen as the IT professional to interview, as Trent is currently working with Appello to develop his mobile application idea. The interview was set to take place on a FaceTime call with a third camera recording in accordance with the interview.pdf supplied by RMIT. However Cameron relayed that he is extremely busy and asked if he could answer any questions we had via e-mail and he’ll reply when he can. The questions include those written by the Assessment Criteria and by group members. Screenshots of all e-mails can be found below the following questions:</P>
+
+								<span class="image main"><img src="images/Interview0.png" alt="" /></span>
+
+								<p>Cameron was thanked for his time and agreed for me to share his LinkedIn account and company website information which can be found below:
+								</p>
+								<p> <a href="https://au.linkedin.com/in/cameron-woodford-0b6788133"> Cameron Woodford's LinkedIn</a>.
+								</p>
+								<p><a href="https://www.appello.com.au/"> Cameron Woodford's Company</a>.
+								</p>
+
+								<h3>Please Tell us about your IT work. What exactly do you do?</h3>
+								<p>I am the founder of an app development agency – Appello. I look after about 6-7 groups of programmers (front and back end), UI/UX designers, graphic designers, marketers and project managers, which all live-in different time-zones. I oversee the entire development of new and existing clients progress and work with those clients to seek investors – which I have built quite a network over the years. I also engage with early clients such as yourself to guide them through the early stages of an app idea and assist by building working prototypes like While You’re Out in which you can start seeking investment to begin development. There is a lot to manage, and my phone is always going off, but I have a great team behind me and that makes it a whole lot easier.
+								</p>
+
+							<span class="image main"><img src="images/Interview1.png" alt="" /></span>
+
+								<h3>Please tell us about the industry you work in.</h3>
+								<p>I work within the software development industry. It was difficult to start acquiring jobs in the beginning but as my team expanded, so too did the client-base. There are heaps of app development agencies or competitors around now however, we found if you add the human element of caring, making software as if it were our own dream, that is what wins our clients over. We are working in a $70+B industry (Fact checked – App Store = $46.6B, Google Play Store = $24.8B in 2018 (Iqbal, Updated June 23rd, 2020)) and so we need to continuously expand our knowledge and keep up to date with the latest technologies to stay ahead.</p>
+
+								<span class="image main"><img src="images/Interview2.png" alt="" /></span>
+
+								<h3>What other kinds of work do you have to do?</h3>
+								<p>When our clients are ready to progress their prototypes into the development stage, I work with those clients and introduce them to right investors and have even pitched the idea with some of them. I come in as the technical lead and explain what we are doing for our client and I believe that helps investors with their risk assessments as we are becoming a recognised and trusted agency in Australia.
+								</P>
+								<p>I have to fly around a lot, and COVID-19 put a halt to that very suddenly. Although I live and work in Sydney, I fly around primarily the East Coast of Australia to engage with my employees there, and to have meetings like when we met to discuss your original idea.
+								</p>
+								<p>When mobile applications are ready to be sent off to the app stores, I work with marketers, project managers and the clients themselves to ensure the success of the launch. This is the most rewarding experience as seeing our work and our clients dream downloaded by them from their preferred app store, can be pretty emotional. We like to let clients have that moment, but we assure them it’s only the beginning and that work needs to continue. We apply post launch strategies like app store optimisation and growth hacking through third party channels to boost awareness of the client’s app and engage more users.
+								</p>
+
+								<span class="image main"><img src="images/Interview3.png" alt="" /></span>
+
+								<h3>Who are all the different people you interact within your work?</h3>
+								<p>The people I work with are all professionals in their field. As I mentioned earlier, the teams I manage ultimately focus on three stages for app development: Design, Development and Launch. Within each group I work alongside different professionals.
+								</P>
+								<p>In the design stage of a client’s work, I manage a team of front-end developers, product designers, UI/UX developers, the teams lead and managers. I would say this is the most challenging work that we do. These professionals are the ones that pick our clients brains until they’ve designed something the client loves – this is hard.
+								</p>
+								<p>In the development stage we include the back-end developers to begin working with the front-end developers to build out the software. The other professionals mentioned before are also included in the development stage however not so much as they are required for the design stage. The front-end developers build out the interface while the back-end developers write the server-side code. This can be a long process.
+								</p>
+								<p>In the Launch stage we bring in the quality assurance team to analyse how the app is performing post launch. They work closely with the UI/UX designers, product and graphic designers and both front and back-end developers to work on maintenance or updates.
+								</p>
+								<p>The client is brought in at every step during this process to ensure they’re happy with the direction of their idea. Our whole team and I work for the client, and it is important to remember that in our industry, the client is not always right, and often-times doesn’t even know what they want, and it is our job to provide solutions to the problems they’re trying to solve.
+								</p>
+
+								<span class="image main"><img src="images/Interview4.png" alt="" /></span>
+
+								<h3>Please tell us about your interactions with other IT professionals</h3>
+								<p>Apart from my professional employees, I don’t engage with a lot of other IT professionals regularly as I am busy with my work. Needless to say, they are all very talented IT professionals.
+								</p>
+
+								<span class="image main"><img src="images/Interview5.png" alt="" /></span>
+
+								<h3>What about your interactions with clients or investors?</h3>
+								<p>My interactions with clients go similarly to how we met, although not always. You originally spoke to Roman who brought to my attention your idea. It was lucky enough I was in Brisbane to come out and meet you to further discuss your idea. We brainstormed the potentials and I assured you that your idea is viable. We then proceed to the design stage in which you’re prototyping your idea. We send each other Adobe XD files which doesn’t normally happen ahaha, but it is extremely helpful to visualise your idea. After the prototyping stage we intend to introduce you to investors which will be necessary to start development of your app. Like I’ve previously said, I will be choosing investor groups I think you will most benefit from, I do this for each client. I will also consider investing in your idea as I am really interested, as we spoke about a few weeks ago. Anyway, after a successful capital raising, we can begin the development stage which you will receive weekly updates via e-mail and video conferencing – I try to make all of these. Similarly, to the development stage, post launch interactions with clients often-times reduces to monthly updates or as the client needs us.
+								</P>
+								<p>My interactions with investors on a personal level only go as far as the client needs me. I have an extensive network of investors amongst different specialised fields which I can contact and set up meetings and product pitches for. I relay information about the work we do to the client which is asked for by the investors or investor groups. Upon success or deny of capital raising, we assess the feedback and move forward from there. After success, we are bound to execute and delivery and so I am constantly in contact with the investors or firms via e-mail and phone calls to update them of details such as deliverables, contracts and accounts.
+								</p>
+
+								<span class="image main"><img src="images/Interview6.png" alt="" /></span>
+
+								<h3>What aspects of your work do you spend most time on?</h3>
+								<p>Although I like to include myself on all aspects of my work, I spend most of my time on the Launch stage of app creation. I spend most of my time here as I find that, as a business, it is the most important part to keeping my business alive. We have a reputation to uphold which is to build great quality applications and to generate revenue. I like to be somewhat in control at this stage when communicating between clients, investors and my team to ensure all stakeholders come out satisfied in the end, and I think I’ve experienced enough for my input to be considered somewhat worthy.
+								</p>
+
+								<span class="image main"><img src="images/Interview7.png" alt="" /></span>
+
+								<h3>Which aspect of work do you find most challenging?</h3>
+								<p>I think finding the right team and tools, was the most challenging part of this whole venture. Some of my professional employees are freelancers and live all throughout the world. It was horrible trying to organise and collaborate on tasks, but we introduced Monday.com in 2018 which is a project management software platform. Since then we have been collaborating much more effectively and all my employees are up to date with everything they need to know – this is moderated by our project managers. It was necessary for my team to streamline communication and collaboration to stay alive.
+								</p>
+
+								<span class="image main"><img src="images/Interview8.png" alt="" /></span>
+
+								<h3>Can you share an example of the work you do that best captures the essense of the IT industry?</h3>
+								<p>The best part of what I do within the IT industry is building our clients idea they’ve held onto for so long into a physical (or digital) product. We have the potential to create software that could impact so many lives around the world. It is a great feeling knowing you’ve been a crucial part to someone’s success and those human feelings are the best feelings in the IT world. I can’t wait for While You’re Out to be ready for launch, I must say I’ve got a lot of confidence in your idea – you’ve done well.
+								</p>
+
+								<span class="image main"><img src="images/Interview9.png" alt="" /></span>
+
+								<h3>Are you personally happy with your job?</h3>
+								<p>I absolutelty love what I do, it keeps me on my toes but it is extremely rewarding. I have the freedom of where I want to work, how I work and what I focus on while at work. I get to work with exciting ideas from clients and constantly expand my knowledge with my employees. I am extremely happy I started Appello, like you, it was once an idea.
+								</p>
+
+								<span class="image main"><img src="images/Interview10.png" alt="" /></span>
+
+								<h3>Do you have to work long hours?</h3>
+								<p>Yes, and no. I do work long hours however I say this because I am to be available 24/7 most of the time. There are periods where pressing matters are priority and I am either in a meeting at 3am or working with my managers to fix a problem or provide support at 5am for example. This doesn’t deter me as I have been called a workaholic amongst my team ahaha.
+								</p>
+
+								<span class="image main"><img src="images/Interview11.png" alt="" /></span>
+
+								<h3>Do you discover new things at work? If so how often?</h3>
+								<p>Yes, almost daily. I work with people bursting with ideas, and this allows me to discover new things all the time. It could be a new app idea which I then makes me think about all the possibilities of that idea, or new technology amongst my employees such as Python or Figma updates. The technology world evolves every day and so there is always something new to find.
+								</p>
+
+								<span class="image main"><img src="images/Interview12.png" alt="" /></span>
+								<span class="image main"><img src="images/Interview13.png" alt="" /></span>
+								<span class="image main"><img src="images/Interview14.png" alt="" /></span>
+								<span class="image main"><img src="images/Interview15.png" alt="" /></span>
+								<span class="image main"><img src="images/Interview16.png" alt="" /></span>
+
+							</article>
+
+						<!-- Project -->
+						<article id="technologies">
+							<h2 class="major">IT Technologies</h2>
+							<h3>Click on any of the following to see more information</h3>
+							<nav>
+								<ul class="actions">
+									<li><a href="#Cyber" class="button primary">Cyber cybersecurity</a></li>
+									<li><a href="#Machine" class="button primary">Machine Learning</a></li>
+								</ul>
+							</nav>
+							<nav>
+								<ul class="actions">
+									<li><a href="#Robots" class="button primary">Robots</a></li>
+									<li><a href="#Natural" class="button primary">Language Processing</a></li>
+							</ul>
+							</nav>
+						</article>
+
+							<article id="Cyber">
+								<h2 class="major">IT Technologies</h2>
+								<h3>Cyber Security</h3>
+								<span class="image main"><img src="images/cybers.jpg" alt="" /></span>
+								<p><strong>What does it do?</strong></p>
+								<p>	Cybersecurity is a term used to designate the idea of protecting any number of systems, networks, programs and other forms of information from digital attacks(cyberattacks). Cyberattacks are recognized as deliberate attacks made in an attempt to destroy, steal or sabotage a system, network, program or anything that is malleable via digital means. Cyberattacks are recognized as a threat to the security of those who would utilize digital technology for some means. This 		includes those who utilize digital technology for management purposes(e.g. data storage servers/ internet services) or for communicational purposes(e.g. telephone companies/services).
+								</p>
+								<p>As cyberattacks vary, so too must cybersecurity. The way in which cybersecurity varies depends on the types of attacks. The protection provided by cybersecurity is placed within multiple layers, spread out amongst the various digital technologies that are to be used; the computers, networks, programs or information that requires protection.
+								</p>
+								<p>Attacks towards a system take the form of the following; malware, phishing, man-in-the-middle(MitM) attacks, denial-of-service (DDoS) attacks, SQL injection, Zero-day exploit and DNS tunneling.
+								</p>
+								<p>Malware is a general term which is used to refer to any type of malicious software, such as spyware, ransomware, viruses and worms. These types of software are made with the intent to sabotage or steal something. Malware is designed in such a way that it breaches a system through a discoverable or detected weakness(often called “vulnerability” in IT security terms). Examples include email links which a user may click on, or dubious software that the user is prompted to install onto their device.
+								</p>
+								<p>Phishing is a term used to describe idea of sending fraudulent communications/information to users. The communication is designed such that it seems to be from a trusted organization or source. This form of attack usually comes via means of user-user communication(e.g. email). Phishing is used to steal information generally or to prompt the user to install malware.
+								</p>
+								<p>Man-in-the-middle (MitM), is an expression used to describe the event in which attackers, through some means, are able to listen in on a conversation between two different individuals/organizations/groups. The conversation is usually centred around sensitive matters that give attackers an advantage, should they be aware of this information. These attacks can be applied once malware is installed, or if the user is using the internet over an unsecure network.
+								</p>
+								<p>Denial-of-service (DDoS), is an expression used to describe the event in which an attack overloads the systems of a network such that the resources that run it(bandwidth and system components) become exhausted, and hence incapable of functioning within the designed parameters. This type of attack is used more as a means to sabotage/destroy a system. Examples of this include DDoS attacks against websites. Resulting in the site being shut down for repairs.
+								</p>
+								<p>SQL injection, stands for “Structured Query Language”. SQL injection is an expression used to describe an event in which an attacker inserts dubious code into a system, server or network, that uses SQL as a base and forces said digital technology to reveal data that would otherwise not appear to the standard user.
+								</p>
+								<p>Zero-day exploit, is an expression which describes the event in which a system vulnerability is discovered, and abused, before any patchwork is implemented to fix the vulnerability. This type of attack is only viable for a duration of time.
+								</p>
+								<p>DNS tunneling, is a type of practise used to hide information which is sent towards a destination. Attackers utilize systems and mechanisms which are designed around DNS and HTTP, for theft and saboteur activities.
+								</p>
+								<p>Cybersecurity is a branch of IT in which the more knowledge one has over the various plausible events that may unfold upon the actuation of any particular idea/action, the easier it will be to design countermeasures in preparation for any malicious event. This statement is also applicable to cyberattacks as well, as the more one understands about a system or design, the more malleable the system becomes. Hence there is rather consistent back and forth between the ability to defend(cybersecurity) and attack(cyberattack).
+								</p>
+								<p>The future of cybersecurity is linked to the development of IT technology and information processing/management. As society becomes more dependent upon digital technology, the importance of cybersecurity will increase either at the same rate or at a higher rate.
+								</p>
+								<br>
+								<p><strong>What is the most likely impact?</strong><br>
+									The impact of cyberattacks can cause cybersecurity breaches. These are points at which the information contained within an object of interest is accessible to purveyors of said information. If cyberattackers can get ahold of their target information, then they can utilize this information for their own purposes. The results of this vary depending on the personality and motive of the attacker. The attacker may be motivated by personal reasons, such as a family situation. The attacker may be motivated by a financial situation, such as a need to pay bills. The attacker may be motivated by an environmental situation, such as taking advantage of an event (electrical shutdown) so as to profit.
+								</p>
+								<p>If such events occur, then the affected parties are likely to begin procedures to construct better defences so as to ward off similar attacks. In the realm of cybersecurity, cyberattacks are documented in detail and then stored so that similar attacks may be better handled by the system should they be attacked again. This results in an escalation of both the defending party, and the attacking party who is continuously developing new strategies to break the system.
+								</p>
+								<p>Countermeasures and other forms of development with regards to combating cyberattacks are seemingly built in to the system itself. That is, the system is secure by design, as opposed to being modified after an attack is made.
+								</p>
+								<br>
+								<p><strong>How will this affect you?</strong><br>
+									Cybersecurity is a serious affair as family units continue to use digital technology on a larger and more frequent scale. If one has children, then it is unavoidable that they will encounter the internet and digital services. Leading to the question of what is appropriate for the children to experience when using these platforms, as they are less experienced then adults and thereby are more susceptible, to walking into traps made by cyberattackers.
+								</p>
+								<p>Digital services provided by banks are targets of interest and access is gained via the knowledge of someones bank account details. Hence anyone in the family unit who earns money is susceptible to being targeted and must be properly aware of the risks when using digital services that ask for ones bank account details. Phishing software is a frequent concern to the average family unit, as it is difficult to filter out absolutely every single message based on whether it is phishing software or not. Though this depends on how well the phishing software is disguised.
+								</p>
+								<p>The consequences of a family unit being attacked are quite damaging, as depending on the information that was taken / destroyed, the financial, economical or social situation of the family unit will change. This could result in a loss of reputation amongst their community, loss of financial ground, loss of friends, loss of job opportunities or loss of their home.
+								</p>
+							</article>
+
+							<article id="Machine">
+								<h2 class="major">IT Technologies</h2>
+								<h3>Machine Learning</h3>
+								<span class="image main"><img src="images/machine.jpg" alt="" /></span>
+								<p><strong>What does it do?</strong></p>
+								<p>Machine learning is the idea that machines will be able to “learn” how to perform various actions, without the need for input from a human operator to tell them what to do. It is an attempt to allow the machine to do what humans do; learn. This ability is given to them via the usage of relevant data, in conjunction with a design philosophy that allows the machine to recognize patterns. Machine learning sees much usage with regards to human management, that is, it makes decisions and suggestions to a human user.
+								</p>
+								<p>Humans perform various actions based on their preferences. These preferences are recorded and taken account of as data. This data is then taken as a basis in order to design a machine that is designed around this basis. In effect, machines that are built around this data will acclimate their response/action in such a way that they fulfil a defined standard. For example, we can consider a machine or piece of software as an example “machine learning”, provided that this machine or piece of software can time and time again, give accurate or relevant recommendations towards an individual user based on data pertaining to choices said user has made.
+								</p>
+								<p>Machine learning technologies are used to coagulate a given choice, to a preferred outcome. Examples include the “Youtube algorithm”, which is designed to show a selection of videos, which are based on the previous videos said user has watched.
+								</p>
+								<p>The development of this technology depends on the format the data takes; this technology is dependent on whatever data you put in. Labelled data, is a type of data that inputs a value for the machine to then use as a reference towards the identification of something. When the machine encounters something, it goes back to its reference database to see if there is any data it can use to identity or label the encounter as. If it finds a reference, the machine can qualify the encounter and act accordingly. In the event that the machine or software incorrectly labels an encounter, the user may correct the machine, so that in the next encounter the machine has data regarding how to label certain encounters. This particular feature is exemplified in services such as “Google Translate” whereby the software attempts to translate a sentence from one language, to another. If the software translated the sentence incorrectly, the user(in this case, the developers at Google) will enter the correct translation into the software. The software will then translate future instances of that particular sentence correctly.
+								</p>
+								<p>Outside of the ability to label an encounter, machine learning is also categorized by the machines ability to prepare data, what algorithms it uses to process tasks, what automatic and iterative syntax it uses, the scalability of the machine(how well it handles multiple things at the same time on a larger scale) and ensemble models (algorithms whose purpose is to make more accurate predictions).
+								</p>
+								<p>The future of machine learning seems to be of such, that processes related to managing humans or things that humans interact with, will be in some way or another regulated by machines or software. That is, the digital media and technology that humans use today will in future renditions become more and more intertwined with machine learning.
+								</p>
+								<br>
+								<p><strong>What is the most likely impact?</strong><br>
+									Machine learning seems to be on course to becoming a more mainstream practise. That is, as more information of various kinds is collected, the necessity for management and sorting becomes crucial. For the user, this means that most of the engagements they may have with digital technology, will inevitably involve data input(from the user) and subsequent data management(from the digital service/machine).With the advent of sharing information, the data input from the user is transmitted not just to a single machine, but to many machines/software that will then utilize this information towards any programmed standard or objective that said machine/software will resolve. This means that more machines and digital services will be aware of information pertaining to the user.
+								</p>
+								<p>The impact this has varies between individuals and affected parties. For businesses concerned with managing some aspect about humans (entertainment industries, banking companies or manufacturing industries) this data will be used to, in some way, further their interests such that they are able to provide superior services and are able to manage the human input on a larger scale.
+								</p>
+								<p>Regarding the individual human, they become more intertwined in a society which utilizes machines to accomplish various tasks. Most of the tasks that said individual performs in their life becomes documented as data. This data is then used by machines or software for various purposes.
+								</p>
+								<p>This invariably means that groups or companies have access to an individuals data, regardless of its sensitivity(private or public data). For example, the bank an individual uses will always be aware of said individuals bank account details, whether it is login details, amount of money, transaction history or how much they earn.
+								</p>
+								<br>
+								<p><strong>How will this affect you?</strong><br>
+									For private individuals, this means that they will see more integration between themselves and society. This integration will be such that certain tasks or events may take place at more efficient or faster speeds. For example, if you would like to have some food delivered to your house around lunchtime everyday, with each dish being different from the one last delivered, your preferences will be categorized into the relevant data format and the machine or software will then prepare a food item and deliver it to you at the designated time--this situation is more relevant If you are an office worker.
+								</p>
+								<p>Other effects pertain to the fact that other individuals or third party entities(groups organizations) outside of those within your own social circle, now know details about you regardless of their sensitivity(private or public data). This means that you as an individual have to take special care as to what actions or tasks you perform, because the result of these actions or tasks will manifest themselves as data which machines or software will use. For example, thieves may be able to find your bank account details and access your money through various means, be it email phishing, bank card tapping or hacking into the bank itself. As the bank holds details and information regarding you as an individual, anything that is harmful to the bank, is also harmful to you(provided that the harm is able to be juxtaposed upon you).
+								</p>
+							</article>
+
+							<article id="Robots">
+								<h2 class="major">IT Technologies</h2>
+								<h3>Robots</h3>
+								<span class="image main"><img src="images/robots.jpg" alt="" /></span>
+								<p><strong>What does it do?</strong></p>
+								<p>A robot is a type of machine which is capable of carrying out a series or set of tasks or actions. These actions are programmed into the machine via digital means such as a computer. As the definition of what a robot is, is based more on philosophical design, robots may take any shape or form provided they are capable of being programmed.
+								</p>
+								<p>Traditionally, robots are made to perform tasks in place of a human, but some may be constructed for conceptual purposes. More practical and useful robots come in the form of medical operating robots(who assist in medical operations), assisting robots(who assist their target in whatever task said target requires), therapeutic robots(who act in such a way that alleviates stress and brings relief to an individual), military robots(e.g. UAV drones) and nano robots(this is a new field of IT technology, but it seems geared towards the medical industry).
+								</p>
+								<p>Robots require information in order to perform their given tasks. This information is given via programming code or sensory information feedback. Sensory information is attained by the robot itself using its on-board sensors to analyse and process the information perceived.
+								</p>
+								<p>In their earliest forms, robots were designed based on mechanical principles only; they were not capable of adding new syntax, or processing tasks or actions outside of the predefined mechanical principles their design was centred around. As technology developed, robot design was improved to the point where robots could take inputs, process(interpret) information and make decisions based on this information in accordance to the design philosophy of the robot. For example, a car manufacturing plant/facility utilizes manufacturing robots to produce cars en masse. These robots must build a car using its parts. This involves moving the parts into place, checking that the part is correctly mounted relative to another part of the car, welding the parts together and putting in the relevant sub-components (e.g screws, bolts). To do all of this, the robot(s) must be aware of what to do when given a part of the car; the robots have a reference of how to proceed given a situation. If one part is misplaced, the robot adjusts the part. If the robot ever runs out of parts, it finds more parts or calls for more parts to be supplied. A single car manufacturing robot works in tandem with other such robots to assemble the vehicle. All of which is indicative of programming, by part of the human, as well as information processing by part of the robot itself.
+								</p>
+								<p>By virtue of electronics and telecommunications, robots are able to be controlled remotely over large distances(though this depends on how the robot was designed). This phenomenon allows for the possibility of various events or capabilities. An example of this is exemplified by commercial drones that can fly in the air and record footage during flight.
+								</p>
+								<p>In today’s society there exists delivery robots who can act in place of package couriers and other novelties, such as cars that are able to drive automatically without human input. It is expected that robots will become more capable as IT technology develops. In the future, one can expect there to be more automation of various aspects in society. We could see robots take more of a place in the military(humanoid robots), as well as the medical society due to the precision and speed that a robot may bring to the field.
+								</p>
+								<br>
+								<p><strong>What is the most likely impact?</strong><br>
+									Robots becoming more integrated with human society, means that society in some ways becomes more efficient, fast and decisive--as this is what robots are designed to do. However this also has its consequences. If some aspect of society changes then the remaining aspects of society will also need a modicum of change, to accommodate the former. An alternative corroborative explanation can be given via the following statement: “society needs to catch up with technology/science”.
+								</p>
+								<p>The failure of a society to adequately evolve each of its aspects at an equal pace, could potentially lead to discrepancies in said society. In the case of robots, if rules and regulations regarding their usage and design are not defined adequately enough, misuse or inefficiency could occur. The misuse or inefficiency would then result in an effect on something else. For example, if crude oil factories at sea decide to employ robots as miners but for some reason, fail to program the robot to accommodate for events such as oil leakages or explosions, then this would affect the fishing industry as the crude oil is harmful to marine life.
+								</p>
+								<p>Robots by nature of their design are not only more efficient, faster and precise but also require no wage(outside of upkeep) and do not tire from their work(outside of the need for replacement parts). They also require no food(outside of the medium used to power them). As this is the case, robots automatically become the most useful labourer, as you can simply issues commands at will and the robot will follow them until completion of the task, or until amendments are made. The effect of this is that robots can effectively replace human labour, leaving many humans without a job and hence creating a shortage of work for many.
+								</p>
+								<br>
+								<p><strong>How will this affect you?</strong><br>
+								Robots becoming more integrated into human society will change the dynamic of human life quite drastically. The need for human labour will most likely see drops as robots become more capable of taking over said labour work. Some tasks at the current time may be too complex for robots to do(e.g. farming cork off of cork trees) though this should change in the future as IT technology develops.
+								</p>
+								<p>As the need for human labour decreases, society will then require different things from the humans within the society. In effect, professions that require more administrative work should see a rise in participants in conjunction with the development of robots. As this happens, one can expect there to be societal problems, which are complementary to the robots dominating some aspects of society. As robots come to dominate the labour sector, people who labour in farms, construction projects and the medical sector will be out of work. These people will need to either re-educate themselves, or find labour work that robots are unable to perform. The more extreme consequences of this could result in riots due to people being unable to find work, or policies which are put in place to prevent robot manufacturers from producing certain types of robots for a particular sector.
+								</p>
+								<p>The advent of robots, and the subsequent problems they bring with them, will most likely require that people educate themselves beforehand in multiple professions before entering the workforce, so as to place oneself in avenues that robots are unable to function in.
+								</p>
+							</article>
+
+							<article id="Natural">
+								<h2 class="major">IT Technologies</h2>
+								<h3>Natural language processing & Chatterbots</h3>
+								<span class="image main"><img src="images/Natural.png" alt="" /></span>
+								<p><strong>What does it do?</strong></p>
+								<p>Natural language processing is a part of IT technology which deals with the interactions between computers and humans. Human language is categorized as “natural”, hence the term “Natural Language Processing(NLP)” is used to refer to software that deciphers the human language, and converts it into a desired computing language that can then be used by the machine or other pieces of software.
+								</p>
+								<p>Chatterbots or a chatbot, is a piece of software that is designed to communicate with a human. The chatbots see use as customer service agents. They communicate with a customer and provide responses to queries. Based on the construction of a chatbot, multiple humans may be served(or chatted with) at the same time, which increases the total amount of people/customers served per given rate. This is their use in some civil sectors, though they may also see use in entertainment sectors, news sectors, finance sectors and so on, with each being given a programming doctrine which matches their designated discipline.
+								</p>
+								<p>A chatbot is an example of natural language processing, as the chatbot is required to understand a given meaning(interpreting from a natural language, to a computer language) and produce a corresponding response(interpreting a response from a computer language, and converting it into a natural language).
+								</p>
+								<p>For the purposes that natural language processing is designed for, it is important that the software is able to correctly recognize various linguistic properties of whatever natural language input it receives. For this to be adequate, the software has to be able to recognize the sentimental(emotional sentiment) property of the input, speech recognition of the input(depends if the software is designed to take input via audio) and the syntax of the input(the subject of the sentence and what actions are taking place). In lieu of this, natural language processing finds use in many IT applications. Some examples include spell checking and keyword searching(useful for documents containing text). Other examples include information extraction(extracting information from any document or website) and advertisement matching(giving ads to users based on their browsing history).
+								</p>
+								<p>The development of natural language processing will result in software, that is better able to understand what it is that humans desire(for a given task). Which is followed by an appropriate response. For example, one of the capabilities provided by natural language processing is the ability to translate entire sentences and paragraphs from a foreign language, into a known language(exemplified further by “Google Translate”). Other instances of natural language processing include recommendations or advertisements. The software is able to select an item to show the user by interpreting said users browsing history information.
+								</p>
+								<p>The future of natural language processing revolves around developing the aspects mentioned above. That is, to improve natural language processing, one needs to improve the mechanisms and principles that it functions on. This involves improving the syntax deconstruction and word recognition system of the software, as well as the ability of the software to relate inputs to a relevant output.
+								</p>
+								<p>Chatterbot technology is a derivative technology of natural language processing, and hence grows in capability at a conjoined rate. It may see a more extensive use depending on how its development progresses. Some examples that chatterbots could develop into include nursing robots for babies, airplane assistant robots, navigation assistant robots, robotic shop employees etc. These examples are more indicative of chatterbot technology being a part of a larger aggregate, which includes many different types of technology such as robots and machine learning or AI.
+								</p>
+								<br>
+								<p><strong>What is the most likely impact?</strong><br>
+									Natural language processing by itself is a software that allows for machines to gain a rudimentary form of “understanding”, with regards to human language and thereby grasp the general intentions said human might have, regarding a particular query. The utility of natural language processing is felt more, when it is integrated into a larger aggregate such as a robot, or a large piece of software that has need of processing the human language. This is due to the fact that the idea of communication requires an input, an interpretation and a subsequent output which is related to the interpretation.
+								</p>
+								<p>The natural language processing technology, follows a more supplementary role which further enhances the capabilities of whatever it is that uses the technology. For example, if a robot is to interact with humans on a command-based relationship, which is more than simply picking up objects or moving to a particular destination, it will need a system or methodology or software which is able to process commands from a human. This is where natural language processing software comes into play. The software allows for machine-human relations with regard to the activity being projected or happening.
+								</p>
+								<p>Advances in natural language processing, will likely contribute to machines and software being more expressive/emotive regarding responses to queries in addition to a higher efficiency due to the faster recognition of the input, a faster interpretation and a faster response. This is exemplified by the existence of chatterbots, which are likely to become better at this particular aspect.
+								</p>
+								<p>Natural language processing is one of the IT technologies that will contribute to digital integration on a vast scale. The technology is endowed with the aspect of communicating human-machine relations, which invariably makes it a service of great importance, as humans must communicate in one way or another. This is the case regardless of societal sector; business, medical, civil or military. In more extreme cases, if human-machine communications become the norm, then human-human communication may in turn suffer as a result. Which could lead to problems down the line.
+								</p>
+								<br>
+								<p><strong>How will this affect you?</strong><br>
+								Natural language processing, and any constituent software or machines that use it, will likely influence the way in which society is influenced by digital technology. As natural language processing dabbles in the subject of communication from human to machine and machine to human, it is one of the factors that determine the functionality of some societal sectors(atleast the ones that utilize the technology).
+								</p>
+								<p>Natural language processing in its current form, allows for humans to communicate orders or provide queries to a machine or software. Depending on the design of either of these, the user may or may not require specialized training to properly pose said query or order. As an example of software that requires little to no specialized training to use, some mobile phones are able to receive voice commands from the user. This allows for the user to use the device without having to conform to the needs of a computational language. As an example of software that requires understanding and specialized training to use, CAD building and system design software is applicable. CAD software in its current stage, requires manual human input for every detail and subsequent understanding of the nuances involved for all of said details; the software is unable to design a house or system on command.
+								</p>
+								<p>The future of commercial or professional usage for those in a society, is such that we could see software(such as CAD) become more accessible and, in more extreme cases, have less need of individuals who know how to use a specific program/software/machine, as said device is so capable at explaining what it requires(due to natural language processing) and producing desired results, that it becomes unnecessary for society to produce or sustain such individuals
+								</p>
+							</article>
+
+							<article id="projectIdea">
+								<h2 class="major">Project Idea</h2>
+								<h3>Overview</h3>
+								<p>The product team PlanIT has been developing is a simple PC Power Supply (P/S) Tester that would allow even the most electrically illiterate people the capability to test their own power supplies at home safely. This reduces the risk to the average user who may have no formal training in using test equipment, such as a multimeter, safely and in a manner to reduce risk.
+								</p>
+								<p>The P/S Tester would be contained in a nonconductive case to with all circuitry contained inside and will be built to Australian and International Standards. The user can test their PC P/S but connecting the main outputs as specified by the P/S manufacturer to supply voltages to the standard ATX 24 pin sockets, utilising the P/S under tests' connection cables. The user will receive four green lights if the P/S tested is performing as required to power a motherboard.
+								</p>
+								<span class="image main"><img src="images/cybers.jpg" alt="" /></span>
+
+								<h3>Function Description</h3>
+								<p>This functional description pertains to the prototype, as the product changes and more is added to the final revision, the descriptions will be added to this section.
+								</p>
+								<p>This P/S Tester takes the four standard output voltages from a conventional PC P/S and runs each one through a test, where on a pass a green LED will light to confirm the power output from the power supply meets a tolerance as documented. All voltages mentioned below are DC voltages.
+								</p>
+								<p>The +3.3V line runs through three in series diodes before going through the LED, with its anode towards source, in parallel to a 1kΩ resistor to ground. This will ensure that the power from output of the P/S is at minimum +2.8V.
+								</p>
+								<p>The +5V line runs in series through, a diode then a 3.3V Zener diode. These two diodes have their cathodes joined with their anodes facing to the other connection points. The line then connects through the LED, with its anode towards source, in parallel to a 1kΩ resistor to ground. The minimum voltage output from the P/S to illuminate the LED is +4.8V
+								</p>
+								<p>The +12V line runs through two 5.1V Zener diodes in series with their cathodes towards the source. The line then connects through the LED, with its anode towards source, in parallel to a 1kΩ resistor to ground. The minimum voltage output from the P/S needs to meet a minimum of +10.9V to illuminate the LED.
+								</p>
+								<p>
+								</p>The -12V line runs in series into two 5.1V Zener diodes with the anode towards the source. The line then continues through the LED, with its cathode towards source, in parallel to a 1kΩ resistor to ground. The P/S requires an output to reach a minimum of -10.9V before LED will illuminate.
+
+								<span class="image main"><img src="images/cybers.jpg" alt="" /></span>
+
+								<h3>Tools and Software</h3>
+								<p>Multisim is a program that allows for the testing and development of circuits in a simulated environment that helps with finding any problems early on in the concept stage before production has begun. There is a free online version that can be used though the purchased product is recommended for more complex circuits, or if requiring more accurate results. The purchased product allows for testing of components to failure points.
+								</p>
+								<p>Eagle is an electronic design automation software (EDA) that allows for the design of printed circuit boards (PCB) from nothing, or even using a schematic as a starting point. This program can also export the final board design with routing or etching maps to various libraries that can be utilised by manufacturers to produce PCB's as required by the end user.
+								</p>
+								<p>AutoCAD is a computer-aided design software that allows for drafting, designing, and documenting of 2D and 3D drawings. Various aspects of this software can be used for different tasks, such as using AutoCAD for designing the outer case for the final product, which can be exported as a file to be utilised on a 3D printer. Alternatively, included in the software bundle, is AutoCAD Electrical which would be used to document and track changes to product schematics. Both this product and Eagle are produced by Autodesk and as such integrate with each-other easily.
+								</p>
+								<p>Any temperature-controlled soldering iron, which is employed in the production of proof-of-concept and prototype products. All connections are to adhere to AS/NZS 3000:20084, J-STD-001G5, and IPC-A-610G5 standards, with component tolerances documented in the schematics where required.
+								</p>
+								<p>Variable Power Generators allow for controlled testing of prototype circuits to prevent damage to both the prototype and removes risk of destroying a PC P/S while still in the testing stage. Also required to test for the tolerances of the final product.
+								</p>
+								<p>Required to ensure components, voltages, and resistances meet required tolerances as documented. As such these products would require a calibration routine to be established to ensure consistency throughout lifetime of the P/S testers product life. All ground points to be tested to ground pin with maximum resistance of 0.2Ω.
+								</p>
+								<p>Insulation Tester – Required for testing the product, allowing the assurance of meeting Australian standards. Testing of any cable is to be conducted at minimum twice the voltage of the line as specified in the schematic. Minimum resistance of any insulation test is to be no less than 1MΩ.
+								</p>
+								<br>
+
+								<h3>Problems Arising and Improvements to Implement</h3>
+								<p>First improvement to be implemented is changing out the connector to be an ATX 24 pin power supply socket. This socket is a standard motherboard connector and as such the power supplied to each pin is consistent regardless of power supply. If testing a modular P/S then the user is to ensure they are using cables as supplied with the power supply. This change is required as there is no standard pinout for cables connecting to the power supply. As well as limiting the tester to only being able to test modular power supplies, the tester would be restricted to only testing power supplies that have matching connectors with identical pinouts. This is very restrictive as most manufacturers have their own various pinouts for their products.
+								</p>
+								<p>A lamp test to give the user the reassurance that if the power being tested is correct then the LED will light up. To implement this the tester would require an onboard battery to be added as well as its own circuitry to be designed and implemented, including the follow-on testing to ensure this doesn't reduce the reliability of the final product.
+								</p>
+								<p>An OK-To-Test lamp as an indicator to the user that they have established an adequate path to ground to allow for testing of the power supply to be conducted. Before the incorporation of this aspect, research is needed to ensure that there is always a path to ground through a connected power supply despite the power switch being turned off. If added to the final product then steps would be added to the operating procedures that will be made available to users.
+								</p>
+								<p>Current voltage test is based off all powers generated going to individual rails before outputting. If same voltage levels are made to different rails then product would need to be expanded to incorporate a test for each rail, possibly requiring additional plugs to test each rail. This is at least relatively easy to implement as the design for each voltage test would already be completed and would just need to be duplicated for an improved product with the expanded capability.
+								</p>
+								<p>Include a fused circuit near the input to protect the P/S Tester from stray voltages from a bad power supply. These fuses would need to be accessible and easily changed from the outside of the case, even if covered in the same manner as the batteries for most commercial products.
+								</p>
+								<br>
+							</article>
+
+							<article id="reflection">
+								<h2 class="major">Group Reflection</h2>
+								<h3>Michael</h3>
+								<p>Had a lot of trouble at the start trying to establish any form of communication with the team. Once we had a discord channel though we started getting some talks started. It was a big stress relief to see after having to be away for a week due to work to come back and see that at least Martin, Tim, and Trent had been able to start effective communication and get our progress started. I was a little disappointed that we were still having no communications with Megha and Hetu, especially since they were the first two to originally join the group.
+								</p>
+								<p>The team that remained worked really well together and once we all had our individual tasks assigned, we showed great trust in each other to get the task done and were all able to produce products that our entire team is more than happy with. I was really happy with the work put in by everyone and glad to see the progress our team has been able to make in such a short time frame. Looking forward to seeing how we go with the next assignment now that we have started.
+								</p>
+								<h3>Timothy</h3>
+								<p>I believe the things that went well would be that we were able to sort out who was doing which task and we could have trust in each other that we would be happy with the work. We also sent each section to each other which allowed everyone to read over it and make sure they were happy with it and we were open to others changing parts if they deemed it necessary.
+								</p>
+								<p>It would have been an easier task if we were able to sit down in a classroom together to allocate roles and talk about each topic more, but that is not an improvement that can be made at this challenging time. At first communication was a bit hard but I believe it came strong in the end.
+								</p>
+								<p>I was surprised that everyone was able to go on their own in a sense to complete different sections and still work things out even when it got a big tough. Also when two members of the group did not participate there was no hesitation for anyone to pick up the slack.
+								</p>
+								<p>One thing I learned about groups is that group work can be challenging but if you identify  each others strengths and work toward them, it will make the work suit everybody a lot more and overall you will get a better result as that is where each others knowledge thrives.
+								</p>
+								<h3>Trent</h3>
+								<p>There is no doubt that team PlanIT worked incredibly hard to get the job done. Having two members fail to communicate with us, it was incredibly reassuring to see each of our team pick up the pieces to what remained without any hesitation.
+								</p>
+								<p>I believe everyones work ethic to be of immense value within our group. There was not one single moment of conflict or even disagreement. Our communication was outstanding, whenever you needed to get in contact with another member; within an hour they were there with a reply and a solution. Each member of our group resides in a different time-zone, but this did not stop us from mainting effective and productive communication. I am very proud of my teams ability to hold strong and approach tasks and each other with a great amount of respect.
+								</p>
+								<p>I got to know the group members that were active, and I learnt a few things about them. Martin is the Swedish powerhouse who can write and write and write some more. Tim is in the same boat as I; we both are studying three subjects, have beautiful dogs and both have a partner that does not like undivided attention (we had a laugh). Michael turned out to be a Logician, the same as I. Although he doesn’t believe in the tests we did, he did a very good job at explaining his counter-argument very logically, and analytically; which are the two main qualities of a Logician ahaha.
+								</p>
+								<p>Martin was the Swedish powerhouse because he’s currently in Sweden. He was able to research the entire IT Industry section alone. Michael was able to complete the project idea as he had all the tools and experience in doing so, he did a great job. And Tim, he was there when you needed him. He would launch himself at any task given and always put his hand up to help. I was in charge of our group repository, website and the IT interview – which I conducted with the owner of the company I am developing my app idea which was mentioned in Assessment 1.
+								</p>
+								<p>Overall I enjoyed my team and look forward to working with them in the future. We have discussed our approach for next assessment and I beleive we will be prepared and better off. We have built the trust of each other, and have proven our work ethic. We should be unstoppable now.
+								</p>
+								<h3>Martin</h3>
+								<p>I believe that our group worked well together. We were able to converse about the assignment and relegate various tasks to each other if the need arose. We were able to complete major parts of the assignment, despite our late start.
+								</p>
+								<p>Improvements come in the form of time management on my part. I was unable to complete my assigned section within a desirable time frame. This could have been avoided if I had started the assignment at an earlier time, or if I was able to more effectively use what time I had.
+								</p>
+								<p>One surprising factor I noticed was the relief that came with being assigned only a part of an entire assignment. This particular assignment has many sections which have different requirements, some of which are of particular weakness to me, e.g. setting up a website or coming up with and executing a project idea. So I was very happy to know that others in the group did not have this particular weakness.
+								</p>
+								<p>I have learned about the advantage of groups. I have not experienced group work in a while. So it was very exhilarating to remember what it is like to be a part of a group that needs to work together.
+								</p>
+							</article>
+						</div>
+
+				<!-- Footer -->
+
+					<footer id="footer">
+
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
